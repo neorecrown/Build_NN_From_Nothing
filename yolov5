@@ -1,7 +1,0 @@
-# 从零开始使用yolov5训练自己的数据集 (Windows 10 + pytorch1.9.0 + cuda11.0 + cudnn)  
-> 环境搭建
->> 1. anaconda 安装
->> 2. anaconda 新建虚拟环境pytorch
->> 3. cuda + cudnn 安装
->> 4. pytorch的安装
->> 5. 
